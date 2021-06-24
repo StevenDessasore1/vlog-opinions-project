@@ -6,4 +6,5 @@ end
 
 
 run ApplicationController
+use VlogsController
 use UsersController
