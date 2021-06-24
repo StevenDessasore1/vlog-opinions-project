@@ -6,5 +6,6 @@ end
 
 
 run ApplicationController
+use OpinionsController
 use VlogsController
 use UsersController
